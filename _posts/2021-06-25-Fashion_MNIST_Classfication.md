@@ -1,3 +1,4 @@
+![output_6_0](https://user-images.githubusercontent.com/69663368/123373091-c37ab200-d5bf-11eb-89ca-c5e0a363af82.png)
 Fashion MNIST는 keras 데이터셋에서 불러온다.
 
 
@@ -82,7 +83,7 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![output_6_0](https://user-images.githubusercontent.com/69663368/123373091-c37ab200-d5bf-11eb-89ca-c5e0a363af82.png)
     
 
 
