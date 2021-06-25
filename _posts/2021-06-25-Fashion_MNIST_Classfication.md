@@ -82,7 +82,8 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![output_6_0](https://user-images.githubusercontent.com/69663368/123373399-4865cb80-d5c0-11eb-8f1d-b006106e7388.png)
+
     
 
 
