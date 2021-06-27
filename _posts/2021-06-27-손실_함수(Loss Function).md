@@ -45,7 +45,7 @@ print("MSE : {}".format(mean_squared_error(np.array(y_error), np.array(t))))
 
     MSE : 0.5975
     
-
+#
 # CEE ( Cross Entropy Error)
 
 * 교차 엔트로피 에러
