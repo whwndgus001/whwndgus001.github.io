@@ -1,3 +1,4 @@
+## 2021-06-25
 Fashion MNIST는 keras 데이터셋에서 불러온다.
 
 
