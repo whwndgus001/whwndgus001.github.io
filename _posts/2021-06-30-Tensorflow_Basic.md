@@ -193,8 +193,7 @@ plt.show()
 ```
 
 
-    
-![png](output_17_0.png)
+![output_17_0](https://user-images.githubusercontent.com/69663368/123986597-68065500-da01-11eb-93c0-b295c6380f8f.png)
     
 
 
@@ -257,7 +256,7 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+![output_22_0](https://user-images.githubusercontent.com/69663368/123986636-705e9000-da01-11eb-8c36-c092949dcfe8.png)
     
 
 
