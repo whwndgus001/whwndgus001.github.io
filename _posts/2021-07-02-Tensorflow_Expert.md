@@ -98,13 +98,13 @@ for images, labels in train_ds.take(2):
 
 
     
-![png](output_11_0.png)
+![output_11_0](https://user-images.githubusercontent.com/69663368/124225557-9d668c00-db42-11eb-978b-1e9b7be51538.png)
     
 
 
 
     
-![png](output_11_1.png)
+![output_11_1](https://user-images.githubusercontent.com/69663368/124225563-a0617c80-db42-11eb-9f1d-2f9512db25fc.png)
     
 
 
