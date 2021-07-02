@@ -1,3 +1,4 @@
+## 2021-07-01
 ```python
 import tensorflow as tf
 from tensorflow.keras import datasets
@@ -25,7 +26,7 @@ plt.show()
 
 
     
-![png](output_3_0.png)
+![output_3_0](https://user-images.githubusercontent.com/69663368/124225006-b02c9100-db41-11eb-8ff8-c9187874e290.png)
     
 
 
